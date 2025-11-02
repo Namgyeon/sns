@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "c98e",
+      "content": "123",
+      "isDone": false
+    },
+    {
+      "id": "f5ee",
+      "content": "456",
+      "isDone": false
+    },
+    {
+      "id": "06b1",
+      "content": "789",
+      "isDone": false
+    }
+  ]
+}
